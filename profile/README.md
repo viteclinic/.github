@@ -1,3 +1,3 @@
 # [Dialux](https://dialux.ai)
 
-Every customer answered. Every time. Automated.
+Every patient answered. Every time. Automated.
