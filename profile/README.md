@@ -1,3 +1,3 @@
-# [Dialux](https//dialux.ai)
+# [Dialux](https://dialux.ai)
 
 Every customer answered. Every time. Automated.
