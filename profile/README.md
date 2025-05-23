@@ -1,3 +1,3 @@
-# [Dialux](https://dialux.ai)
+# [Mediacallia](https://mediacallia.ai)
 
-Every patient answered. Every time. Automated.
+Every patient answered. 24/7. Automated.
