@@ -1,3 +1,3 @@
 # [Vite Clinic](https://viteclinic.com)
 
-Every patient answered. 24/7. Automated.
+Answer every patient, 24/7.
