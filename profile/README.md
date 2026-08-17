@@ -2,6 +2,6 @@
 
 **AI phone assistant for Swiss clinics.**
 
-Handle routine patient calls 24/7, help turn more calls into booked appointments, and keep the work in your PMS—not another inbox.
+Vite Clinic handles routine patient calls 24/7, reduces pressure on the front desk, helps turn more calls into booked appointments, and helps the clinic grow revenue. The work stays in the clinic's PMS—not another inbox.
 
 [Visit viteclinic.ch](https://viteclinic.ch)
